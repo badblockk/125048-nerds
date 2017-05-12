@@ -1343,7 +1343,7 @@ input[name="grid-select"]:disabled + label {
 .buy-it:active {
   box-shadow: inset 0 3px 0 0 #c13135;
   background-color: #d7373b;
-  color: rgba(255,255,255,0.3);
+  color: #fff;
 }
 
 .catalog-item:hover .catalog-item-hover,
